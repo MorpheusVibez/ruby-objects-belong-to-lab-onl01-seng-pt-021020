@@ -1,5 +1,5 @@
 class Author
-  attr_accessor :auth_name
+  attr_accessor :name
 
   def initialize
     @name = auth_name
